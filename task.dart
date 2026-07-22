@@ -52,7 +52,7 @@ for(var product in products){
    }
    print('total price:$total');
 
-   //Task6:
+   //bouns:
    List<Map<String, dynamic>> prod = [
     {'name': 'Book', 'price': 40, 'qty': 2},
     {'name': 'Pen', 'price': 5, 'qty': 10},
